@@ -1,0 +1,15 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/core/src/main/scala/org/apache/spark/scheduler/StageInfo.scala:59: value attemptId in class StageInfo is deprecated: Use attemptNumber instead[0m
+[0m[[33mwarn[0m] [0m  def attemptNumber(): Int = attemptId[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/core/src/main/scala/org/apache/spark/util/AccumulatorV2.scala:492: trait AccumulableParam in package spark is deprecated: use AccumulatorV2[0m
+[0m[[33mwarn[0m] [0m    param: org.apache.spark.AccumulableParam[R, T]) extends AccumulatorV2[T, R] {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/core/src/main/scala/org/apache/spark/util/AccumulatorV2.scala:492: trait AccumulableParam in package spark is deprecated: use AccumulatorV2[0m
+[0m[[33mwarn[0m] [0m    param: org.apache.spark.AccumulableParam[R, T]) extends AccumulatorV2[T, R] {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/core/src/main/scala/org/apache/spark/api/r/RBackend.scala:102: method childGroup in class ServerBootstrap is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    if (bootstrap != null && bootstrap.childGroup() != null) {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/core/src/main/scala/org/apache/spark/BarrierTaskContext.scala:161: method isRunningLocally in class TaskContext is deprecated: Local execution was removed, so this always returns false[0m
+[0m[[33mwarn[0m] [0m  override def isRunningLocally(): Boolean = taskContext.isRunningLocally()[0m
+[0m[[33mwarn[0m] [0m[0m

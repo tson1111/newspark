@@ -1,0 +1,18 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaOffsetReader.scala:118: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaOffsetReader.scala:138: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m        consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaOffsetReader.scala:180: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m      consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaOffsetReader.scala:199: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m      consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaOffsetReader.scala:223: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m          consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/KafkaDataConsumer.scala:470: method poll in class KafkaConsumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    val p = consumer.poll(pollTimeoutMs)[0m
+[0m[[33mwarn[0m] [0m[0m

@@ -1,0 +1,6 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/repl/src/main/scala/org/apache/spark/repl/SparkILoop.scala:53: method addedClasspath in class ILoop is deprecated: Use reset, replay or require to update class path[0m
+[0m[[33mwarn[0m] [0m      if (addedClasspath != "") {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/repl/src/main/scala/org/apache/spark/repl/SparkILoop.scala:54: method addedClasspath in class ILoop is deprecated: Use reset, replay or require to update class path[0m
+[0m[[33mwarn[0m] [0m        settings.classpath append addedClasspath[0m
+[0m[[33mwarn[0m] [0m[0m

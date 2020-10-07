@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/congding/dataloading/external/avro/src/main/resources/META-INF,/home/congding/dataloading/external/avro/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/dataloading/external/avro/src/main/resources/META-INF/services,/home/congding/dataloading/external/avro/target/scala-2.11/classes/META-INF/services)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/dataloading/external/avro/src/main/resources/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister,/home/congding/dataloading/external/avro/target/scala-2.11/classes/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister)[0m

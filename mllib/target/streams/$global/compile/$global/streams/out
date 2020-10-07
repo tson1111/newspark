@@ -1,0 +1,6 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/mllib/src/main/scala/org/apache/spark/ml/feature/OneHotEncoder.scala:138: class OneHotEncoder in package feature is deprecated: `OneHotEncoderEstimator` will be renamed `OneHotEncoder` and this `OneHotEncoder` will be removed in 3.0.0.[0m
+[0m[[33mwarn[0m] [0mobject OneHotEncoder extends DefaultParamsReadable[OneHotEncoder] {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/mllib/src/main/scala/org/apache/spark/ml/feature/OneHotEncoder.scala:141: class OneHotEncoder in package feature is deprecated: `OneHotEncoderEstimator` will be renamed `OneHotEncoder` and this `OneHotEncoder` will be removed in 3.0.0.[0m
+[0m[[33mwarn[0m] [0m  override def load(path: String): OneHotEncoder = super.load(path)[0m
+[0m[[33mwarn[0m] [0m[0m

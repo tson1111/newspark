@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org,/home/congding/newspark/streaming/target/scala-2.11/classes/org)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark/streaming,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark/streaming)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark/streaming/ui,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark/streaming/ui)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark/streaming/ui/static,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark/streaming/ui/static)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark/streaming/ui/static/streaming-page.js,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark/streaming/ui/static/streaming-page.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/congding/newspark/streaming/src/main/resources/org/apache/spark/streaming/ui/static/streaming-page.css,/home/congding/newspark/streaming/target/scala-2.11/classes/org/apache/spark/streaming/ui/static/streaming-page.css)[0m

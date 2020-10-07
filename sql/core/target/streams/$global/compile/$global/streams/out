@@ -1,0 +1,27 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala:128: value ENABLE_JOB_SUMMARY in object ParquetOutputFormat is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m      && conf.get(ParquetOutputFormat.ENABLE_JOB_SUMMARY) == null) {[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala:360: class ParquetInputSplit in package hadoop is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m        new org.apache.parquet.hadoop.ParquetInputSplit([0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala:371: method readFooter in object ParquetFileReader is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m        ParquetFileReader.readFooter(sharedConf, filePath, SKIP_ROW_GROUPS).getFileMetaData[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala:544: method readFooter in object ParquetFileReader is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m          ParquetFileReader.readFooter([0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/TriggerExecutor.scala:46: class ProcessingTime in package streaming is deprecated: use Trigger.ProcessingTime(intervalMs)[0m
+[0m[[33mwarn[0m] [0mcase class ProcessingTimeExecutor(processingTime: ProcessingTime, clock: Clock = new SystemClock())[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/TriggerExecutor.scala:46: class ProcessingTime in package streaming is deprecated: use Trigger.ProcessingTime(intervalMs)[0m
+[0m[[33mwarn[0m] [0mcase class ProcessingTimeExecutor(processingTime: ProcessingTime, clock: Clock = new SystemClock())[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/TriggerExecutor.scala:46: class ProcessingTime in package streaming is deprecated: use Trigger.ProcessingTime(intervalMs)[0m
+[0m[[33mwarn[0m] [0mcase class ProcessingTimeExecutor(processingTime: ProcessingTime, clock: Clock = new SystemClock())[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/TriggerExecutor.scala:46: class ProcessingTime in package streaming is deprecated: use Trigger.ProcessingTime(intervalMs)[0m
+[0m[[33mwarn[0m] [0mcase class ProcessingTimeExecutor(processingTime: ProcessingTime, clock: Clock = new SystemClock())[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/TriggerExecutor.scala:46: class ProcessingTime in package streaming is deprecated: use Trigger.ProcessingTime(intervalMs)[0m
+[0m[[33mwarn[0m] [0mcase class ProcessingTimeExecutor(processingTime: ProcessingTime, clock: Clock = new SystemClock())[0m
+[0m[[33mwarn[0m] [0m[0m

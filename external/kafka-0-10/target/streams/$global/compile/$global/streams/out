@@ -1,0 +1,12 @@
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/DirectKafkaInputDStream.scala:172: method poll in trait Consumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    val msgs = c.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/ConsumerStrategy.scala:100: method poll in class KafkaConsumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m        consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/ConsumerStrategy.scala:153: method poll in class KafkaConsumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m        consumer.poll(0)[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m/home/congding/newspark/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaDataConsumer.scala:200: method poll in class KafkaConsumer is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    val p = consumer.poll(timeout)[0m
+[0m[[33mwarn[0m] [0m[0m
